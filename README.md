@@ -29,8 +29,7 @@ Matplotlib and Seaborn for creating visualizations.
 File Handling:
 Outputs data in CSV format for dashboard creation.
 Project Structure
-Dataset:
-Gender_Wage_Gap_Analysis_Dataset_with_Disparities.csv: Synthetic dataset with built-in gender pay disparities.
+
 Code:
 analysis.py: Python script for data analysis and visualization.
 Outputs:
