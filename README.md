@@ -1,9 +1,9 @@
 ## Gender-Wage-Gap-Analysis
 
-##Overview
+## Overview
 This project analyzes the gender wage gap using a synthetic dataset of employee records across various industries and positions. The analysis aims to quantify disparities in salaries between genders, identify key factors contributing to these differences, and provide actionable insights to reduce inequities in the workplace.
 
-##Key Features
+## Key Features
 Dataset:
 
 Includes over 50,000 synthetic employee records with attributes such as gender, position, base salary, bonus, years of experience, and more.
@@ -56,5 +56,5 @@ Data-driven recommendations for closing the gender pay gap.
 Contributing
 Contributions to improve the dataset, analysis, or visualizations are welcome. Please create a pull request or open an issue to discuss your ideas.
 
-##License
+## License
 This project is open-source and available under the MIT License.
