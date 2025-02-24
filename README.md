@@ -1,7 +1,6 @@
-# Gender-Wage-Gap-Analysis
- Gender Wage Gap Analysis
-Gender Wage Gap Analysis
-Overview
+## Gender-Wage-Gap-Analysis
+
+#Overview
 This project analyzes the gender wage gap using a synthetic dataset of employee records across various industries and positions. The analysis aims to quantify disparities in salaries between genders, identify key factors contributing to these differences, and provide actionable insights to reduce inequities in the workplace.
 
 Key Features
