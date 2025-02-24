@@ -29,7 +29,7 @@ File Handling:
 Outputs data in CSV format for dashboard creation.
 Project Structure
 
-##Code:
+## Code:
 analysis.py: Python script for data analysis and visualization.
 Outputs:
 Tableau_Gender_Salary_Data.csv: Processed data ready for visualization in Tableau.
